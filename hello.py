@@ -1,1 +1,4 @@
-print("Hello, main waqas hoon aur ye meri pehli Python file hai")
+naam = input("Aapka naam kya hai? ")
+umar = input("Aapki umar kya hai? ")
+print("Salam", naam)
+print("Aap", umar, "saal ke hain")
